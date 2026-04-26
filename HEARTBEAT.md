@@ -30,13 +30,15 @@
 |-------|-------|-------|--------|
 | CHAA-29 | Create EasyChat project runbooks | CTO | completed |
 | CHAA-11 | Backend: Provider configuration CRUD API | Backend Coder | completed |
+| CHAA-14 | Frontend: Provider settings UI | FrontEnd Coder | todo |
 
 ## Next Actions
 
-1. Review CHAA-12 (streaming handler integration) - Backend Coder
-2. Review CHAA-10 (conversations API) - Backend Coder
-3. Define provider adapter interface - Backend Coder
+1. Implement CHAA-14 (Provider settings UI) - FrontEnd Coder
+2. Review CHAA-12 (streaming handler integration) - Backend Coder
+3. Review CHAA-10 (conversations API) - Backend Coder
+4. Define provider adapter interface - Backend Coder
 
 ## Last Updated
 
-2026-04-26
+2026-04-26T22:19 UTC

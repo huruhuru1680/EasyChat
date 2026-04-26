@@ -34,6 +34,13 @@ easychat/
 └── README.md
 ```
 
+## Git Setup (First Time)
+
+```bash
+git config --global user.email "your@email.com"
+git config --global user.name "Your Name"
+```
+
 ## Commands
 
 ```bash
